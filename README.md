@@ -1,4 +1,4 @@
-# Compuetr Aided Geometric Design: CAGD
+# Computerr Aided Geometric Design: CAGD
 This course discusses the principles of geometric modeling focusing on Bezier and B-Splines curves and surfaces. Clear comprehension of the underlying mathematics of curve and surface design may prepare the students to explore various applications such scientific visualization, manufacturing design and computer graphics.
 
 1. CLO1: Identify the methods of  modeling curves and surfaces in the field of computer-aided geometric design. [PLO3-C4]																			
